@@ -1,4 +1,4 @@
-# Complete Agentic AI Bootcamp 2026
+# Complete Agentic AI Bootcamp
 
 A comprehensive learning resource covering the fundamentals and advanced concepts of Agentic AI, from Pydantic data validation to production-ready multi-agent systems with LangGraph.
 
